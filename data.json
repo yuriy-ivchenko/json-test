@@ -1,5 +1,6 @@
 {
   "name": "Yuriy",
   "age": 30,
-  "skills": ["JavaScript", "React", "Node.js"]
+  "skills": ["JavaScript", "React", "Node.js"],
+  "photo": "https://raw.githubusercontent.com/yuriy-ivchenko/json-test/main/images/my-photo.jpg"
 }
